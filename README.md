@@ -1,9 +1,9 @@
-# Hello, I'm Abbaz Dev 👋
+# Hello, I'm Abbaz Dev 😃👋
 
 ## About Me
 
-I'm a passionate web developer. I love building interactive and user-friendly web applications. <br>
-I enjoy solving problems and constantly learning new technologies to enhance my skills.
+I'm a passionate web developer. I love building interactive and user-friendly web applications🌐 <br>
+I enjoy solving problems and constantly learning new technologies to enhance my skills 👨‍💻
 
 ## Connect with Me
 
