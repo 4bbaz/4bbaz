@@ -2,7 +2,8 @@
 
 ## About Me
 
-I'm a passionate web developer, specializing in React.js. I love building interactive and user-friendly web applications. I enjoy solving problems and constantly learning new technologies to enhance my skills.
+I'm a passionate web developer. I love building interactive and user-friendly web applications. <br>
+I enjoy solving problems and constantly learning new technologies to enhance my skills.
 
 ## Connect with Me
 
@@ -16,13 +17,13 @@ Feel free to reach out to me for collaborations, discussions, or just to say hi!
       width="40"
       height="40"
     />
-  </a> <h> <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+  </a> <h> &nbsp; <a href="https://twitter.com/" target="_blank" rel="noreferrer">
     <img
       src="./icons/twitter.png"
       alt="gmail"
       width="40"
     />
-  </a>  <a href="mailto:4bbas.habeeb@gmail.com" target="_blank" rel="noreferrer">
+  </a> &nbsp; <a href="mailto:4bbas.habeeb@gmail.com" target="_blank" rel="noreferrer">
     <img
       src="./icons/Gmail.png"
       alt="gmail"
@@ -32,7 +33,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hi!
   </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img
@@ -90,7 +91,9 @@ Feel free to reach out to me for collaborations, discussions, or just to say hi!
       height="40"
     />
   </a> 
+  </p>
   
+  <p>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
